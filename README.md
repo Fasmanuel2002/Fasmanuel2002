@@ -40,10 +40,7 @@
 ---
 
 ### 🧩 Featured Projects  
-- 🧠 **SeeU** – Computer vision app using AI to detect and analyze human behavior  
-- 🔒 **CyberSecure** – Cybersecurity assistant for small businesses  
 - 📊 **ML Career Predictor** – Neural network that predicts tech career paths using RIASEC-based data  
-
 ---
 
 ### 📫 Let's Connect  
