@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Manuel</h1>
 
 <p align="center">
-  🚀 <strong>Machine Learning</strong>
+  🚀 <strong>Research in Machine Learning</strong>
   <br>
   💻 Building intelligent systems for <strong>AI, Backend & Data Science</strong>  
   <br>
