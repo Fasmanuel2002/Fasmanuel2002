@@ -39,7 +39,7 @@
 
 ### 📫 Let's Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/manuel-fas-ruiz" target="_blank">
+  <a href="https://www.linkedin.com/in/manuel-fas-48b2b9257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=ADFF2F" />
   </a>
   <a href="mailto:manuelfasruiz@gmail.com">
