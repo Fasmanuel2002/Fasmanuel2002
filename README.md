@@ -15,17 +15,16 @@
 -  Pursuing a **dual degree in Computer Science and Business Administration with Technology**  
 -  Conducting research in **Machine Learning and Deep Learning architectures**, focused on model performance and optimization  
 -  Experienced in building **FastAPI-based microservices** applying **Domain-Driven Design (DDD)** and containerized with **Docker**  
--  Skilled at combining **AI, backend, and data-driven approaches** to deliver reliable and efficient solutions  
 -  Constantly exploring new technologies, from neural networks to clean software architecture and system design principles  
 
 ---
 
-### ⚙️ Tech Stack  
+### Tech Stack  
 
-#### 💡 Languages & Frameworks  
+#### Languages & Frameworks  
 `Python` · `TensorFlow` · `Keras` · `PyTorch` · `FastAPI` · `Rust` · `Java` · `C#` 
 
-#### 🧰 Tools & Platforms  
+#### Tools & Platforms  
 `Docker` · `Azure` · `GitHub` · `Linux(WSL)` · `Jupyter` · `VS Code`
 
 
