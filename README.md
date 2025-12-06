@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manuel Fas</h1>
+<h1 align="center">Hi, I'm Manuel</h1>
 
 <p align="center">
   <strong>Machine Learning Researcher & BackEnd Engineer</strong>  
@@ -42,4 +42,3 @@
 
 ---
 
-<p align="center"><em>“Strive for clarity in thought, precision in code, and purpose in creation.”</em></p>
