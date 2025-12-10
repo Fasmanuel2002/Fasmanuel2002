@@ -1,11 +1,8 @@
 <h1 align="center">Hi, I'm Manuel</h1>
 
 <p align="center">
-  <strong>Machine Learning Researcher & BackEnd Engineer</strong>  
-  <br>
-  Designing intelligent systems for <strong>Artificial Intelligence, Backend Engineering & Data Science</strong>  
-  <br>
-  Based in 🇨🇭  | Passionate about <strong>Deep Learning, Applied AI & Scalable Systems</strong>
+
+  Based in 🇨🇭  | Passionate about <strong>Deep Learning</strong>
 </p>
 
 ---
@@ -15,7 +12,6 @@
 -  Pursuing a **dual degree in Computer Science and Business Administration with Technology**  
 -  Conducting research in **Machine Learning and Deep Learning architectures**, focused on model performance and optimization  
 -  Experienced in building **FastAPI-based microservices** applying **Domain-Driven Design (DDD)** and containerized with **Docker**  
--  Constantly exploring new technologies, from neural networks to clean software architecture and system design principles  
 
 ---
 
