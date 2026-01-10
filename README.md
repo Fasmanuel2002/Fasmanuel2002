@@ -11,7 +11,7 @@
 
 -  Pursuing a **dual degree in Computer Science and Business Administration with Technology**  
 -  Conducting research in **Machine Learning and Deep Learning architectures**, focused on model performance and optimization  
--  Experienced in building **FastAPI-based microservices** applying **Domain-Driven Design (DDD)** and containerized with **Docker**  
+-  Experienced in building **microservices** applying **Domain-Driven Design (DDD)** and containerized with **Docker**  
 
 ---
 
