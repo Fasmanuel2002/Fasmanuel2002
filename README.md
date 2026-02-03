@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  Based in 🇨🇭  | Passionate about <strong>Deep Learning</strong>
+  Based in Spain  | Passionate about <strong>Deep Learning</strong>
 </p>
 
 ---
