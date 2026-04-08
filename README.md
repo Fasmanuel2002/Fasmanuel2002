@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Manuel</h1>
+<p align="center">
+  Based in Spain | Passionate about <strong>Machine Learning & Deep Learning</strong>
+</p>
 
 <p align="center">
-
-  Based in Spain  | Passionate about <strong>Deep Learning</strong>
+  Machine Learning Research Intern @ <a href="https://air-institute.com"><strong>AIR Institute</strong></a>
 </p>
 
 ---
-
 ### About Me  
 
 -  Pursuing a **dual degree in Computer Science and Business Administration with Technology**  
