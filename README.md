@@ -19,10 +19,10 @@
 ### Tech Stack  
 
 #### Languages & Frameworks  
-`Python` · `TensorFlow` · `Keras` · `PyTorch` · `FastAPI` · `Rust` · `Java` · `C#` 
+`Python` · `TensorFlow` · `Keras` · `PyTorch` · `FastAPI` · `Java` · `C#` 
 
 #### Tools & Platforms  
-`Docker` · `Azure` · `GitHub` · `Linux(WSL)` · `Jupyter` · `VS Code`
+`Docker` · `GitHub` · `Linux(WSL)` · `Jupyter` · `VS Code` · `CUDA`  
 
 
 ### 🌐 Let's Connect  
