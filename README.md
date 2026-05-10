@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Manuel</h1>
 <p align="center">
-  Based in Spain | Passionate about <strong>Machine Learning & Deep Learning</strong>
+  Based in Spain | Passionate about <strong>Machine Learning & Deep Learning</strong> , I love implementing papers! :)
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 -  Pursuing a **dual degree in Computer Science and Business Administration with Technology**  
 -  Conducting research in **Machine Learning and Deep Learning architectures**, focused on model performance and optimization  
--  Experienced in building **microservices** applying **Domain-Driven Design (DDD)** and containerized with **Docker**  
+-  Conducting research in papers of ML, DL and agentic programming
 
 ---
 
