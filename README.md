@@ -3,9 +3,6 @@
   Based in Spain | Passionate about <strong>Machine Learning & Deep Learning</strong> , I love implementing papers! :)
 </p>
 
-<p align="center">
-  Machine Learning Research Intern @ <a href="https://air-institute.com"><strong>AIR Institute</strong></a>
-</p>
 
 ---
 ### About Me  
