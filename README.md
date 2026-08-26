@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Manuel</h1>
 <p align="center">
   Based in Spain | Passionate about <strong>Machine Learning & Deep Learning</strong> , I love implementing papers! :)
+  
 </p>
-
+<p align="center">
+  Research Machine Learning Junior at <a href="https://bisite.usal.es">BISITE</a>
+</p>
 
 ---
 ### About Me  
